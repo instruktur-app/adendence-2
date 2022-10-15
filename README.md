@@ -27,3 +27,34 @@ function atendenceStr(str) {
 console.log(atendenceStr("sakit;izin;hadir;hadir;hadir"));
 //Jumlah yang hadir: 3, yang izin: 1 dan yang sakit : 1
 ```
+
+### Soal 3
+
+```js
+function atendenceMultiDimensi(arr) {
+    // kerjakan disini
+    return result;
+}
+
+console.log(atendenceMultiDimensi([
+    ["hadir", "Herzinanda", "Rama", "Fahmi", "Caroline", "Mufrih", "Raihan"],
+    ["izin", "Helmi", "Sylfia", "Nanik", "Rafii", "Mukhti", "Ranu", "Syafira", "Natalia", "Fatchia"],
+    ["sakit", "Novri", "Amrul", "Citra", "Farhan", "Aldi", "Bagus", "jaoza", "Made"]
+]));
+// {
+//     hadir: [ 'Herzinanda', 'Rama', 'Fahmi', 'Caroline', 'Mufrih', 'Raihan' ],
+//     izin: [
+//         'Helmi',   'Sylfia',
+//         'Nanik',   'Rafii',
+//         'Mukhti',  'Ranu',
+//         'Syafira', 'Natalia',
+//         'Fatchia'
+//     ],
+//     sakit: [
+//         'Novri', 'Amrul',
+//         'Citra', 'Farhan',
+//         'Aldi',  'Bagus',
+//         'jaoza', 'Made'
+//     ]
+// }
+```
