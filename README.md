@@ -7,7 +7,7 @@ Pada malam hari ini kita akan bermain game dengan duck dack race, kemudian yang 
 - [ ] [@Alfi](https://github.com/orgs/instruktur-app/people/alfianifk)
 - [ ] @Nabil 
 - [x] [@Herzinanda](https://github.com/orgs/instruktur-app/people/herzinanda)
-- [ ] @Rama
+- [x] @Rama
 - [x] [@Fahmi](https://github.com/orgs/instruktur-app/people/sugiartofahmi)
 - [x] [@Caroline](https://github.com/orgs/instruktur-app/people/DillaCarolineK)
 - [x] [@Mufrih](https://github.com/orgs/instruktur-app/people/MufrihM)
@@ -25,7 +25,7 @@ function atendence(arr) {
 }
 
 console.log(atendence(['Hadir', 'Sakit', 'Hadir', 'Sakit', 'Hadir', 'Sakit', 'Hadir', 'Sakit', 'Hadir', 'Sakit']));
-//{ Hadir: 4, Sakit: 4 }
+//{ Hadir: 5, Sakit: 5 }
 ```
 
 ### Misi 2
