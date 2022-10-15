@@ -14,7 +14,8 @@ Pada malam hari ini kita akan bermain game dengan duck dack race, kemudian yang 
 - [ ] [@Rayhan](https://github.com/orgs/instruktur-app/people/MRayhanm) 
 
 
-### Soal 1
+
+### Misi 1
 
 ```js
 function atendence(arr) {
@@ -27,7 +28,7 @@ console.log(atendence(['Hadir', 'Sakit', 'Hadir', 'Sakit', 'Hadir', 'Sakit', 'Ha
 //{ Hadir: 4, Sakit: 4 }
 ```
 
-### Soal 2
+### Misi 2
 
 ```js
 function atendenceStr(str) {
@@ -42,7 +43,7 @@ console.log(atendenceStr("sakit;izin;hadir;hadir;hadir"));
 //Jumlah yang hadir: 3, yang izin: 1 dan yang sakit : 1
 ```
 
-### Soal 3
+### Misi 3
 
 ```js
 function atendenceMultiDimensi(arr) {
@@ -51,7 +52,7 @@ function atendenceMultiDimensi(arr) {
 }
 
 console.log(atendenceMultiDimensi([
-    ["hadir", "Herzinanda", "Rama", "Fahmi", "Caroline", "Mufrih", "Raihan"],
+    ["hadir", "Herzinanda", "Rama", "Fahmi", "Caroline", "Mufrih", "Raihan", "Alfi", "Nabil"],
     ["izin", "Helmi", "Sylfia", "Nanik", "Rafii", "Mukhti", "Ranu", "Syafira", "Natalia", "Fatchia"],
     ["sakit", "Novri", "Amrul", "Citra", "Farhan", "Aldi", "Bagus", "jaoza", "Made"]
 ]));
@@ -73,7 +74,7 @@ console.log(atendenceMultiDimensi([
 // }
 ```
 
-### Soal 4
+### Misi 4
 
 ```js
 function groupByArtist(song) {
@@ -97,7 +98,7 @@ console.log(groupByArtist([
 // }
 ```
 
-### Soal 5
+### Misi 5
 
 ```js
 function kasirApp(cart) {
@@ -119,7 +120,7 @@ console.log(kasirApp([
 // { Buku: 70, Pensil: 100, Pena: 88 }
 ```
 
-### Soal 6
+### Misi 6
 
 ```js
 function searchingProduct(data, dataFilter) {
@@ -152,7 +153,7 @@ console.log(searchingProduct([{
 // ]
 ```
 
-### Soal 7
+### Misi 7
 
 ```js
 function searchingProduct(data, dataFilter) {
@@ -187,7 +188,7 @@ console.log(searchingProduct([{
 // ]
 ```
 
-### Soal 8
+### Misi 8
 
 ```js
 function male(she) {
