@@ -4,14 +4,14 @@ Pada malam hari ini kita akan bermain game dengan duck dack race, kemudian yang 
 
 ## Pemeran
 
-- [] @Alfi
-- [] @Nabil 
-- [] @Herzinanda 
-- [] @Rama
-- [] @Fahmi 
-- [] @Caroline
-- [] @Mufrih
-- [] @Rayhan 
+- [ ] @Alfi
+- [ ] @Nabil 
+- [ ] @Herzinanda 
+- [ ] @Rama
+- [ ] @Fahmi 
+- [ ] @Caroline
+- [ ] @Mufrih
+- [ ] @Rayhan 
 
 
 ### Soal 1
