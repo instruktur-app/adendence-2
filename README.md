@@ -1,4 +1,5 @@
-# adendence-2
+# Soal mentoring Javascript 2
+
 
 ### Soal 1
 
@@ -169,4 +170,26 @@ console.log(searchingProduct([{
 //     { nama: 'Ipad Pro Gen 9 M1', harga: 18000000 },
 //     { nama: 'Airpod Pro 2021', harga: 3200000 }
 // ]
+```
+
+### Soal 8
+
+```js
+function male(she) {
+    // kerjakan disini
+}
+
+function feMale(he) {
+    // kerjakan disini
+}
+
+function saiHai(name, call) {
+    // kerjakan disini
+}
+
+console.log(saiHai("Dono", "he"))
+// Hi Mas. Dono
+
+console.log(saiHai("Dini", "she"))
+// Halo Mba. Dini
 ```
