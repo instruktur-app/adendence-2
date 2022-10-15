@@ -1,15 +1,25 @@
 function atendenceMultiDimensi(arr) {
-  let result = {};
-  result.hadir = arr[0].splice(1);
-  result.izin = arr[1].splice(1);
-  result.sakit = arr[2].splice(1);
+  const result = arr.reduce((prev, curr) => {
+    const k = curr[0];
+    const v = curr.slice(1);
+    prev[k] = v;
+    return prev;
+  }, {});
   return result;
 }
+
+// function atendenceMultiDimensi(arr) {
+//   let result = {};
+//   result.hadir = arr[0].splice(1);
+//   result.izin = arr[1].splice(1);
+//   result.sakit = arr[2].splice(1);
+//   return result;
+// }
 
 console.log(
   atendenceMultiDimensi([
     [
-      "hadir",
+      "sakit",
       "Herzinanda",
       "Rama",
       "Fahmi",
@@ -32,7 +42,7 @@ console.log(
       "Fatchia",
     ],
     [
-      "sakit",
+      "hadir",
       "Novri",
       "Amrul",
       "Citra",
