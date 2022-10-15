@@ -6,12 +6,12 @@ Pada malam hari ini kita akan bermain game dengan duck dack race, kemudian yang 
 
 - [ ] [@Alfi](https://github.com/orgs/instruktur-app/people/alfianifk)
 - [ ] @Nabil 
-- [ ] [@Herzinanda](https://github.com/orgs/instruktur-app/people/herzinanda)
+- [x] [@Herzinanda](https://github.com/orgs/instruktur-app/people/herzinanda)
 - [ ] @Rama
-- [ ] [@Fahmi](https://github.com/orgs/instruktur-app/people/sugiartofahmi)
-- [ ] [@Caroline](https://github.com/orgs/instruktur-app/people/DillaCarolineK)
-- [ ] [@Mufrih](https://github.com/orgs/instruktur-app/people/MufrihM)
-- [ ] [@Rayhan](https://github.com/orgs/instruktur-app/people/MRayhanm) 
+- [x] [@Fahmi](https://github.com/orgs/instruktur-app/people/sugiartofahmi)
+- [x] [@Caroline](https://github.com/orgs/instruktur-app/people/DillaCarolineK)
+- [x] [@Mufrih](https://github.com/orgs/instruktur-app/people/MufrihM)
+- [x] [@Rayhan](https://github.com/orgs/instruktur-app/people/MRayhanm) 
 
 
 
