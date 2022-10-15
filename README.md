@@ -104,3 +104,69 @@ console.log(kasirApp([
 ]))
 // { Buku: 70, Pensil: 100, Pena: 88 }
 ```
+
+### Soal 6
+
+function searchingProduct(data, dataFilter) {
+    // kerjakan disini
+    return result
+}
+
+console.log(searchingProduct([{
+    nama: "Iphone 14 Max Pro",
+    harga: 22000000
+}, {
+    nama: "Macbook Pro M2 13 inch",
+    harga: 24000000
+}, {
+    nama: "Mouse Surfece Gen 3 2022",
+    harga: 1800000
+}, {
+    nama: "Ipad Pro Gen 9 M1",
+    harga: 18000000
+}, {
+    nama: "Iphone 11",
+    harga: 9700000
+}, {
+    nama: "Airpod Pro 2021",
+    harga: 3200000
+}], 5000000))
+// [
+//     { nama: 'Mouse Surfece Gen 3 2022', harga: 1800000 },
+//     { nama: 'Airpod Pro 2021', harga: 3200000 }
+// ]
+
+### Soal 7
+
+```js
+function searchingProduct(data, dataFilter) {
+    // Kerjakan disni  
+    return result
+}
+
+console.log(searchingProduct([{
+    nama: "Iphone 14 Max Pro",
+    harga: 22000000
+}, {
+    nama: "Macbook Pro M2 13 inch",
+    harga: 24000000
+}, {
+    nama: "Mouse Surfece Gen 3 2022",
+    harga: 1800000
+}, {
+    nama: "Ipad Pro Gen 9 M1",
+    harga: 18000000
+}, {
+    nama: "Iphone 11",
+    harga: 9700000
+}, {
+    nama: "Airpod Pro 2021",
+    harga: 3200000
+}], "pro"))
+// [
+//     { nama: 'Iphone 14 Max Pro', harga: 22000000 },
+//     { nama: 'Macbook Pro M2 13 inch', harga: 24000000 },
+//     { nama: 'Ipad Pro Gen 9 M1', harga: 18000000 },
+//     { nama: 'Airpod Pro 2021', harga: 3200000 }
+// ]
+```
