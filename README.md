@@ -4,14 +4,14 @@ Pada malam hari ini kita akan bermain game dengan duck dack race, kemudian yang 
 
 ## Pemeran
 
-- [ ] @Alfi
+- [ ] [@Alfi](https://github.com/orgs/instruktur-app/people/alfianifk)
 - [ ] @Nabil 
-- [ ] @Herzinanda 
+- [ ] [@Herzinanda](https://github.com/orgs/instruktur-app/people/herzinanda)
 - [ ] @Rama
-- [ ] @Fahmi 
-- [ ] @Caroline
-- [ ] @Mufrih
-- [ ] @Rayhan 
+- [ ] [@Fahmi](https://github.com/orgs/instruktur-app/people/sugiartofahmi)
+- [ ] [@Caroline](https://github.com/orgs/instruktur-app/people/DillaCarolineK)
+- [ ] [@Mufrih](https://github.com/orgs/instruktur-app/people/MufrihM)
+- [ ] [@Rayhan](https://github.com/orgs/instruktur-app/people/MRayhanm) 
 
 
 ### Soal 1
