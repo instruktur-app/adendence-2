@@ -14,6 +14,10 @@ Pada malam hari ini kita akan bermain game dengan duck dack race, kemudian yang 
 - [x] [@Rayhan](https://github.com/orgs/instruktur-app/people/MRayhanm) 
 
 
+## Materi
+[:books: Baca disini](https://github.com/instruktur-app/adendence-2/wiki/materi)
+
+## Misi
 
 ### Misi 1
 
@@ -209,3 +213,7 @@ console.log(saiHai("Dono", "he"))
 console.log(saiHai("Dini", "she"))
 // Halo Mba. Dini
 ```
+
+### Jawaban
+
+[:rocket:](https://github.com/instruktur-app/adendence-2/wiki)
