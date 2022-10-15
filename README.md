@@ -108,6 +108,7 @@ console.log(kasirApp([
 
 ### Soal 6
 
+```js
 function searchingProduct(data, dataFilter) {
     // kerjakan disini
     return result
@@ -136,6 +137,7 @@ console.log(searchingProduct([{
 //     { nama: 'Mouse Surfece Gen 3 2022', harga: 1800000 },
 //     { nama: 'Airpod Pro 2021', harga: 3200000 }
 // ]
+```
 
 ### Soal 7
 
