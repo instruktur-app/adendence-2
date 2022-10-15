@@ -1,4 +1,17 @@
-# Soal mentoring Javascript 2
+# Game mentoring Javascript 2
+
+Pada malam hari ini kita akan bermain game dengan duck dack race, kemudian yang muncul namanya bebas memilih soal, jika sudah selesai boleh memilih penantangnya untuk mengerjakan soal berikutnya dan jika berhasil mengerjakan soal maka bisa melakukan freeze atas 1 soal selanjutnya sehingga tidak bisa dipilih.
+
+## Pemeran
+
+[] @Alfi
+[] @Nabil 
+[] @Herzinanda 
+[] @Rama
+[] @Fahmi 
+[] @Caroline
+[] @Mufrih
+[] @Rayhan 
 
 
 ### Soal 1
